@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\SANDUN\\Projects\\Visual Programming - C#\\Interview\\CRED\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4117050C-3D86-497B-A943-000350C47A0B}|CRED\\CRED.csproj|d:\\sandun\\projects\\visual programming - c#\\interview\\cred\\cred\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4117050C-3D86-497B-A943-000350C47A0B}|CRED\\CRED.csproj|solutionrelative:cred\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4117050C-3D86-497B-A943-000350C47A0B}|CRED\\CRED.csproj|D:\\SANDUN\\Projects\\Visual Programming - C#\\Interview\\CRED\\cred\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4117050C-3D86-497B-A943-000350C47A0B}|CRED\\CRED.csproj|solutionrelative:cred\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\SANDUN\\Projects\\Visual Programming - C#\\Interview\\CRED\\CRED\\Form1.cs",
+              "RelativeDocumentMoniker": "CRED\\Form1.cs",
+              "ToolTip": "D:\\SANDUN\\Projects\\Visual Programming - C#\\Interview\\CRED\\CRED\\Form1.cs",
+              "RelativeToolTip": "CRED\\Form1.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAAK8AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T17:44:21.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\SANDUN\\Projects\\Visual Programming - C#\\Interview\\CRED\\CRED\\Form1.cs",
+              "RelativeDocumentMoniker": "CRED\\Form1.cs",
+              "ToolTip": "D:\\SANDUN\\Projects\\Visual Programming - C#\\Interview\\CRED\\CRED\\Form1.cs [Design]",
+              "RelativeToolTip": "CRED\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T15:32:36.687Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
